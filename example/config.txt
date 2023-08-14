@@ -1,0 +1,2 @@
+Prefix plugins/FilterMetabolitesWithPathways/example/
+Plugin FilterMetabolitesWithPathways inputfile parameters.txt outputfile MetabolitesWholeMap.csv
